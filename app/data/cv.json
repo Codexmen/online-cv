@@ -1,0 +1,48 @@
+{
+  "basics": {
+    "name": "Yurii Kovalenko",
+    "label": "Senior Frontend Developer/Fullstack",
+    "image": "CV_PHOTO.jpeg",
+    "email": "kimmongod@gmail.com",
+    "summary": "With a solid foundation in web development and a blend of frontend expertise coupled with backend experience, I possess robust technical skills. My adeptness in communication complements my ability to lead teams and develop projects from their inception. I am a dedicated lifelong learner, consistently keeping an eye on evolving technology trends, ensuring a proactive approach to staying updated in the field. I am a passionate developer who is always looking for new challenges and opportunities to learn and grow.",
+    "contacts": [
+      "Warshaw, Poland",
+      "+48 571-337-973",
+      "+38 093-870-6228",
+      "kimmongod@gmail.com",
+      "Telegram: @yurii_kovalenko"
+    ]
+  },
+  "skills": "Vue.js, React, React Hooks, JavaScript, TypeScript, CSS, TailwindCSS, Basics of Python, Flask, PostgreSQL, Basic PHP, Cypress, GraphQL, REST API, Vuex, Redux",
+  "education": [
+    {
+      "institution": "Tavria State Agrotechnological University",
+      "degree": "Master in Computer Science",
+      "years": "2007-2013"
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "B2"
+    },
+    {
+      "language": "Ukrainian",
+      "fluency": "Native"
+    }
+  ],
+  "links": [
+    {
+      "name": "GitHub",
+      "url": "https://github.com/Codexmen"
+    },
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/yurii-kovalenko-1b1b1b1b1/"
+    },
+    {
+      "name": "Blog",
+      "url": "https://yuriik.com"
+    }
+  ]
+}

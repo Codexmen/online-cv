@@ -1,0 +1,99 @@
+[
+  {
+    "name": "DataBand (IBM Company)",
+    "startDate": "2020-10-01",
+    "position": "Senior Front End Engineer/Full Stack",
+    "stack": [
+      "Vue2",
+      "Vue3",
+      "TypeScript",
+      "TailwindCSS",
+      "SCSS",
+      "Cypress",
+      "Python",
+      "Flask",
+      "SQLAlchemy"
+    ],
+    "responsibilities": [
+      "Implementing design system and common architecture;",
+      "Planning and estimating features, mentoring developers;",
+      "Maintaining and refactoring existing codebase from Vue2/JS/SCSS to Vue3/TypeScript/TailwindCSS;",
+      "Writing end-to-end tests using Cypress."
+    ]
+  },
+  {
+    "name": "MyHeritage",
+    "startDate": "2019-02-01",
+    "endDate": "2020-10-01",
+    "position": "Senior Front End Engineer",
+    "stack": [
+      "React",
+      "SCSS",
+      "GraphQL",
+      "PHP"
+    ],
+    "responsibilities": [
+      "Developing new features from scratch;",
+      "Refactoring old codebase from PHP/JQuery to React/GraphQL;",
+      "Planning and estimating tasks for team;",
+      "Enhancing internal tools for company needs."
+    ]
+  },
+  {
+    "name": "Playtech LTD",
+    "startDate": "2016-12-01",
+    "endDate": "2019-02-01",
+    "position": "Senior Front End Engineer/Team Lead",
+    "stack": [
+      "React",
+      "TypeScript",
+      "Angular",
+      "SCSS"
+    ],
+    "responsibilities": [
+      "Developing new HTML5 games and add features to existing games;",
+      "Rewriting old games from Angular to React/TypeScript/MObX/RxJS;",
+      "Integrating games to client's platforms;",
+      "Mentoring junior and middle developers;",
+      "Estimating and planning tasks for team."
+    ]
+  },
+  {
+    "name": "2K-Group",
+    "startDate": "2013-06-01",
+    "endDate": "2016-12-01",
+    "position": "Senior Front End Engineer/Team Lead",
+    "stack": [
+      "JavaScript",
+      "Backbone",
+      "PHP"
+    ],
+    "responsibilities": [
+      "Developing client side snippet for research advertising companies (like Google Analytics);",
+      "Developing browser addons for Chrome, Firefox, Opera (before Webkit), publish it on stores and our servers;",
+      "Developing admin panels for advertising companies researches;",
+      "Developing and maintain PHP sites ( bugtracker like Jira, site for online surveys);",
+      "Mentoring junior developers;",
+      "Planning and estimating tasks for team."
+    ]
+  },
+  {
+    "name": "Studio Banzai",
+    "startDate": "2011-02-01",
+    "endDate": "2013-06-01",
+    "position": "Full Stack Web Developer",
+    "stack": [
+      "JavaScript",
+      "PHP",
+      "Yii",
+      "MySQL",
+      "HTML",
+      "CSS"
+    ],
+    "responsibilities": [
+      "Developing proprietary CMS on Yii 1.4",
+      "Developing sites and e-commerce on most popular CMS (Wordpress, Joomla, Magento)",
+      "Do pixel perfect markup from PSD to HTML/CSS"
+    ]
+  }
+]
