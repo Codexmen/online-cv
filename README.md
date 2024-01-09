@@ -13,3 +13,5 @@ Thanks Netlify online version is available [here](https://bright-baklava-f50e25.
 3. Run `npm run build` to build the project.
 4. Use print to pdf function in your browser to save the CV as pdf.
 
+## Images
+Any images should be placed in the [public](public) folder. They can be referenced in the JSONs or in templates.
