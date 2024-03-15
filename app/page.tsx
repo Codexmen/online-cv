@@ -1,7 +1,7 @@
-import CV from './data/cv.json'
-import {ResumeBlock} from "@/app/ResumeBlock";
-import {ResumeAvatar} from "@/app/ResumeAvatar";
-import {EmploymentHistory} from "@/app/EmploymentHistory";
+import CV from '@/data/cv.json'
+import {ResumeBlock} from "@/components/ResumeBlock";
+import {ResumeAvatar} from "@/components/ResumeAvatar";
+import {EmploymentHistory} from "@/components/EmploymentHistory";
 
 export default function Home() {
     return (
@@ -61,7 +61,6 @@ export default function Home() {
                         <EmploymentHistory/>
                     </ResumeBlock>
                 </main>
-
             </div>
         </main>
     )
